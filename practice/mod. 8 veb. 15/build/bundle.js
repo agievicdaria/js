@@ -1,0 +1,1 @@
+(()=>{"use strict";document.body.textContent="hey from webpack!"})();
